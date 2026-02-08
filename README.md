@@ -37,4 +37,4 @@ if total_emission > 300:
     print("• Reduce electricity usage")
     print("• Switch to renewable energy if possible")
 else:
-    print("• Great job! Keep following sustainable habits 🌱")
+    print("• Great job! Keep following sustainable habits ")
